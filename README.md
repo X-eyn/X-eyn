@@ -20,13 +20,11 @@
   <samp>🔭 Current Focus</samp>
 </h3>
 
-<div>
-  <code>
+<div style="font-family: 'Fira Code', monospace;">
   • Developing production-ready machine learning pipelines with emphasis on scalability and performance<br>
   • Exploring advanced neural architecture search techniques for optimized model designs<br>
   • Implementing efficient model deployment strategies using modern MLOps practices<br>
   • Contributing to open-source ML projects to advance the field of AI
-  </code>
 </div>
 
 <h3>
