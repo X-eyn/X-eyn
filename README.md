@@ -52,19 +52,45 @@ graph TD
 <table>
   <tr>
     <td align="center">
-      <b>🧠 Neural Architecture Search Framework</b><br>
-      Automated architecture discovery with 60% reduced search time<br>
-      <sub>PyTorch • CUDA • Ray</sub>
+      <h4>🧠 Neural Architecture Search Framework</h4>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white"/>
+      <p>Automated architecture discovery with 60% reduced search time while maintaining state-of-the-art accuracy</p>
+      <details><summary>Key Features</summary>
+      <p>
+      • Multi-objective optimization<br>
+      • Hardware-aware search<br>
+      • Distributed training support
+      </p>
+      </details>
     </td>
     <td align="center">
-      <b>🎯 MLOps Pipeline</b><br>
-      End-to-end ML deployment with A/B testing<br>
-      <sub>Kubernetes • MLflow • Docker</sub>
+      <h4>🎯 MLOps Pipeline</h4>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <p>Production-grade ML deployment pipeline with automated A/B testing capabilities</p>
+      <details><summary>Key Features</summary>
+      <p>
+      • Automated model versioning<br>
+      • Real-time monitoring<br>
+      • Scalable inference
+      </p>
+      </details>
     </td>
     <td align="center">
-      <b>🔍 Feature Selection Engine</b><br>
-      Hybrid statistical-neural feature importance scoring<br>
-      <sub>scikit-learn • TensorFlow</sub>
+      <h4>🔍 Feature Selection Engine</h4>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <p>Novel hybrid approach combining statistical methods with neural importance scoring</p>
+      <details><summary>Key Features</summary>
+      <p>
+      • Automatic feature ranking<br>
+      • Cross-validation support<br>
+      • Interactive visualizations
+      </p>
+      </details>
     </td>
   </tr>
 </table>
