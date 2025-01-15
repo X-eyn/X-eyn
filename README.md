@@ -13,7 +13,9 @@
     <samp>🚀 AI/ML Engineer | Building the Future of Intelligence</samp>
   </h2>
 
-  <code>Transforming complex data into intelligent solutions. Currently focusing on scalable ML systems and exploring the frontiers of deep learning architectures.</code>
+  <div style="font-family: 'Fira Code', monospace;">
+    Transforming complex data into intelligent solutions. Currently focusing on scalable ML systems and exploring the frontiers of deep learning architectures.
+  </div>
 </div>
 
 <h3>
@@ -78,15 +80,14 @@ graph TD
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white"/>
-      <p><code>Automated architecture discovery with 60% reduced search time while maintaining state-of-the-art accuracy</code></p>
-      <details><summary><code>Key Features</code></summary>
-      <p>
-      <code>
-      • Multi-objective optimization<br>
-      • Hardware-aware search<br>
-      • Distributed training support
-      </code>
-      </p>
+      <p style="font-family: 'Fira Code', monospace;">Automated architecture discovery with 60% reduced search time while maintaining state-of-the-art accuracy</p>
+      <details>
+        <summary style="font-family: 'Fira Code', monospace;">Key Features</summary>
+        <p style="font-family: 'Fira Code', monospace;">
+        • Multi-objective optimization<br>
+        • Hardware-aware search<br>
+        • Distributed training support
+        </p>
       </details>
     </td>
     <td align="center">
@@ -94,30 +95,28 @@ graph TD
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <p><code>Production-grade ML deployment pipeline with automated A/B testing capabilities</code></p>
-      <details><summary><code>Key Features</code></summary>
-      <p>
-      <code>
-      • Automated model versioning<br>
-      • Real-time monitoring<br>
-      • Scalable inference
-      </code>
-      </p>
+      <p style="font-family: 'Fira Code', monospace;">Production-grade ML deployment pipeline with automated A/B testing capabilities</p>
+      <details>
+        <summary style="font-family: 'Fira Code', monospace;">Key Features</summary>
+        <p style="font-family: 'Fira Code', monospace;">
+        • Automated model versioning<br>
+        • Real-time monitoring<br>
+        • Scalable inference
+        </p>
       </details>
     </td>
     <td align="center">
       <h4><samp>🔍 Feature Selection Engine</samp></h4>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <p><code>Novel hybrid approach combining statistical methods with neural importance scoring</code></p>
-      <details><summary><code>Key Features</code></summary>
-      <p>
-      <code>
-      • Automatic feature ranking<br>
-      • Cross-validation support<br>
-      • Interactive visualizations
-      </code>
-      </p>
+      <p style="font-family: 'Fira Code', monospace;">Novel hybrid approach combining statistical methods with neural importance scoring</p>
+      <details>
+        <summary style="font-family: 'Fira Code', monospace;">Key Features</summary>
+        <p style="font-family: 'Fira Code', monospace;">
+        • Automatic feature ranking<br>
+        • Cross-validation support<br>
+        • Interactive visualizations
+        </p>
       </details>
     </td>
   </tr>
@@ -127,11 +126,13 @@ graph TD
   <samp>📫 Let's Connect!</samp>
 </h3>
 
-<div>
-  <code>I'm always open to collaborating on innovative AI/ML projects or discussing the latest developments in the field. Feel free to reach out!</code>
+<div style="font-family: 'Fira Code', monospace;">
+  I'm always open to collaborating on innovative AI/ML projects or discussing the latest developments in the field. Feel free to reach out!
 </div>
 
 ---
 <div align="center">
-  <code><i>"The future belongs to those who can untangle complexity and forge intelligence from chaos."</i></code>
+  <div style="font-family: 'Fira Code', monospace;">
+    <i>"The future belongs to those who can untangle complexity and forge intelligence from chaos."</i>
+  </div>
 </div>
