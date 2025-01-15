@@ -29,7 +29,7 @@ tech_stack = {
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical&count_private=true)
 
 ### 🔥 Featured Projects
 
