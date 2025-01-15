@@ -1,4 +1,5 @@
-# 👋 Hey there, I'm [Your Name]
+# > import engineer
+# > engineer.init("your_name")
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ahmed-590795228/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
