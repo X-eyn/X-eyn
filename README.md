@@ -14,7 +14,7 @@
   </h2>
 
   <div style="font-family: 'Fira Code', monospace;">
-    Transforming complex data into intelligent solutions. Currently focusing on scalable ML systems and exploring the frontiers of deep learning architectures.
+    BSc in Computer Science & Engineering graduate, focused on developing innovative AI/ML solutions with expertise in TinyML and IoT applications. Currently working on scalable ML systems and exploring the frontiers of deep learning architectures, with a particular interest in emotion detection and real-time processing systems.
   </div>
 </div>
 
@@ -37,24 +37,24 @@
 graph TD
     A[Tech Stack] --> B[Languages]
     A --> C[ML/DL]
-    A --> D[MLOps]
-    A --> E[Cloud]
+    A --> D[Web]
+    A --> E[Tools]
     
     B --> B1[Python]
-    B --> B2[SQL]
-    B --> B3[C++]
+    B --> B2[PHP]
+    B --> B3[JavaScript]
     
-    C --> C1[PyTorch]
-    C --> C2[TensorFlow]
-    C --> C3[scikit-learn]
+    C --> C1[TensorFlow]
+    C --> C2[PyTorch]
+    C --> C3[TinyML]
     
-    D --> D1[MLflow]
-    D --> D2[DVC]
-    D --> D3[W&B]
+    D --> D1[Laravel]
+    D --> D2[HTML/CSS]
+    D --> D3[SQL]
     
-    E --> E1[AWS SageMaker]
-    E --> E2[GCP AI]
-    E --> E3[Azure ML]
+    E --> E1[Linux/Unix]
+    E --> E2[Git]
+    E --> E3[SDLC/Scrum]
 ```
 
 <h3>
@@ -106,16 +106,17 @@ graph TD
       </details>
     </td>
     <td align="center">
-      <h4><samp>🔍 Feature Selection Engine</samp></h4>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      <h4><samp>🎭 TinyML Emotion Detection</samp></h4>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <p style="font-family: 'Fira Code', monospace;">Novel hybrid approach combining statistical methods with neural importance scoring</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IoT-003A9B?style=flat&logo=iot&logoColor=white"/>
+      <p style="font-family: 'Fira Code', monospace;">Research on optimizing emotion detection algorithms for IoT wearable devices using TinyML approaches</p>
       <details>
         <summary style="font-family: 'Fira Code', monospace;">Key Features</summary>
         <p style="font-family: 'Fira Code', monospace;">
-        • Automatic feature ranking<br>
-        • Cross-validation support<br>
-        • Interactive visualizations
+        • Voice signal processing<br>
+        • Resource-efficient ML models<br>
+        • Real-time emotion detection
         </p>
       </details>
     </td>
