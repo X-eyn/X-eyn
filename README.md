@@ -6,51 +6,74 @@
 
 ## 🚀 AI/ML Engineer | Building the Future of Intelligence
 
-I'm an AI/ML Engineer passionate about developing innovative solutions that push the boundaries of what's possible with artificial intelligence. Currently focusing on building scalable ML systems and exploring cutting-edge deep learning architectures.
+> Transforming complex data into intelligent solutions. Currently focusing on scalable ML systems and exploring the frontiers of deep learning architectures.
 
 ### 🔭 Current Focus
 
-- Developing production-ready machine learning pipelines
-- Exploring advanced neural architecture search techniques
-- Implementing efficient model deployment strategies
-- Contributing to open-source ML projects
+- Developing production-ready machine learning pipelines with emphasis on scalability and performance
+- Exploring advanced neural architecture search techniques for optimized model designs
+- Implementing efficient model deployment strategies using modern MLOps practices
+- Contributing to open-source ML projects to advance the field of AI
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-```python
-tech_stack = {
-    'languages': ['Python', 'SQL', 'C++'],
-    'ml_frameworks': ['PyTorch', 'TensorFlow', 'scikit-learn'],
-    'mlops_tools': ['MLflow', 'DVC', 'Weights & Biases'],
-    'cloud': ['AWS SageMaker', 'Google Cloud AI', 'Azure ML'],
-    'deployment': ['Docker', 'Kubernetes', 'FastAPI'],
-}
+```mermaid
+graph TD
+    A[Tech Stack] --> B[Languages]
+    A --> C[ML/DL]
+    A --> D[MLOps]
+    A --> E[Cloud]
+    
+    B --> B1[Python]
+    B --> B2[SQL]
+    B --> B3[C++]
+    
+    C --> C1[PyTorch]
+    C --> C2[TensorFlow]
+    C --> C3[scikit-learn]
+    
+    D --> D1[MLflow]
+    D --> D2[DVC]
+    D --> D3[W&B]
+    
+    E --> E1[AWS SageMaker]
+    E --> E2[GCP AI]
+    E --> E3[Azure ML]
 ```
 
-### 📈 GitHub Stats
+### 📊 GitHub Metrics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x-eyn&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x-eyn&theme=radical)
 
 ### 🔥 Featured Projects
 
-#### 🧠 Neural Architecture Search Framework
-Built a scalable NAS framework that automatically discovers optimal neural network architectures, reducing model search time by 60% while maintaining accuracy.
-
-#### 🎯 Efficient Model Deployment Pipeline
-Developed an end-to-end ML deployment pipeline using Kubernetes and MLflow, enabling automated model updates with A/B testing capabilities.
-
-#### 🔍 Advanced Feature Selection Engine
-Created a novel feature selection algorithm that combines statistical methods with neural network-based importance scoring.
-
-### 📚 Latest Blog Posts
-
-- [Optimizing Neural Architecture Search: A Practical Guide](your-blog-url)
-- [Implementing Efficient ML Pipelines with MLflow](your-blog-url)
-- [Advanced Feature Selection Techniques for Deep Learning](your-blog-url)
+<table>
+  <tr>
+    <td align="center">
+      <b>🧠 Neural Architecture Search Framework</b><br>
+      Automated architecture discovery with 60% reduced search time<br>
+      <sub>PyTorch • CUDA • Ray</sub>
+    </td>
+    <td align="center">
+      <b>🎯 MLOps Pipeline</b><br>
+      End-to-end ML deployment with A/B testing<br>
+      <sub>Kubernetes • MLflow • Docker</sub>
+    </td>
+    <td align="center">
+      <b>🔍 Feature Selection Engine</b><br>
+      Hybrid statistical-neural feature importance scoring<br>
+      <sub>scikit-learn • TensorFlow</sub>
+    </td>
+  </tr>
+</table>
 
 ### 📫 Let's Connect!
 
-I'm always interested in collaborating on innovative AI/ML projects or discussing the latest developments in the field. Feel free to reach out!
+I'm always open to collaborating on innovative AI/ML projects or discussing the latest developments in the field. Feel free to reach out!
 
 ---
-*"The best way to predict the future is to invent it." - Alan Kay*
+<div align="center">
+  <i>"The future belongs to those who can untangle complexity and forge intelligence from chaos."</i>
+</div>
