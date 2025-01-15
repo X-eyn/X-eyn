@@ -1,12 +1,24 @@
-# $ whoami
-### Crafting intelligence, one neural network at a time 🧠
+<div align="center">
+  <h1>
+    <samp>$ whoami</samp>
+  </h1>
+  <h3>
+    <samp>Crafting intelligence, one neural network at a time 🧠</samp>
+  </h3>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ahmed-590795228/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 
-## 🚀 AI/ML Engineer | Building the Future of Intelligence
+<div align="center">
+  <h2>
+    <samp>🚀 AI/ML Engineer | Building the Future of Intelligence</samp>
+  </h2>
+</div>
 
-> Transforming complex data into intelligent solutions. Currently focusing on scalable ML systems and exploring the frontiers of deep learning architectures.
+<div align="center">
+  <code>Transforming complex data into intelligent solutions. Currently focusing on scalable ML systems and exploring the frontiers of deep learning architectures.</code>
+</div>
 
 ### 🔭 Current Focus
 
