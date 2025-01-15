@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm [Your Name]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ahmed-590795228/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 
 ## 🚀 AI/ML Engineer | Building the Future of Intelligence
@@ -28,7 +28,7 @@ tech_stack = {
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical)
 
 ### 🔥 Featured Projects
 
