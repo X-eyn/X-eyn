@@ -62,7 +62,7 @@ graph TD
 
 <br />
 
-<h3 style="color:#FFE700;"><code>// GITHUB_METRICS</code></h3>
+<h3 style="color:#FFE700;"><code>// PROFILE METRICS</code></h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FFE700&icon_color=FFE700&text_color=FFFFFF" height="150" />
