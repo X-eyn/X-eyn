@@ -7,7 +7,7 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/x-eyn&count_bg=%23333333&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true" />
     </a>
     <a href="https://www.linkedin.com/in/zain-ahmed-590795228/">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=black&labelColor=000000" />
+      <img src="https://img.shields.io/badge/LinkedIn-Zain%20Ahmed-black?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
   </p>
 
@@ -137,4 +137,3 @@ graph TD
 <div align="center">
   <sub><i>"The future belongs to those who can untangle complexity."</i></sub>
 </div>
-
