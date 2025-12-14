@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://github.com/x-eyn">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/x-eyn&count_bg=%23333333&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true" />
+      <img src="https://img.shields.io/badge/GitHub-x--eyn-black?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
     </a>
     <a href="https://www.linkedin.com/in/zain-ahmed-590795228/">
       <img src="https://img.shields.io/badge/LinkedIn-Zain%20Ahmed-black?style=flat-square&logo=linkedin&logoColor=white" />
