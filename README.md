@@ -1,46 +1,55 @@
 <div align="center">
-  <h1>
-    <samp>$ whoami</samp>
-  </h1>
-  <h3>
-    <samp>Crafting intelligence, one neural network at a time 🧠</samp>
-  </h3>
-  
-  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fx-eyn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ahmed-590795228/)
-  
-
-  <h2>
-    <samp>🚀 AI/ML Engineer | Building the Future of Intelligence</samp>
-  </h2>
-
-  <div style="font-family: 'Fira Code', monospace;">
-    BSc in Computer Science & Engineering graduate, focused on developing innovative AI/ML solutions with expertise in TinyML and IoT applications. Currently working on scalable ML systems and exploring the frontiers of deep learning architectures, with a particular interest in emotion detection and real-time processing systems.
-  </div>
-</div>
-
+<h1>
+<code>>_ Zain Ahmed</code>
+</h1>
 <h3>
-  <samp>🔭 Current Focus</samp>
+Building scalable intelligence systems.
 </h3>
 
-<div style="font-family: 'Fira Code', monospace;">
-  • Developing production-ready machine learning pipelines with emphasis on scalability and performance<br>
-  • Exploring advanced neural architecture search techniques for optimized model designs<br>
-  • Implementing efficient model deployment strategies using modern MLOps practices<br>
-  • Contributing to open-source ML projects to advance the field of AI
+<p>
+<a href="https://www.google.com/search?q=https://github.com/x-eyn">
+<img src="https://www.google.com/search?q=https://hits.seeyoufarm.com/api/count/incr/badge.svg%3Furl%3Dhttps%253A%252F%252Fgithub.com%252Fx-eyn%26count_bg%3D%2523333333%26title_bg%3D%2523000000%26icon%3D%26icon_color%3D%2523E7E7E7%26title%3Dvisitors%26edge_flat%3Dtrue"/>
+</a>
+<a href="https://www.linkedin.com/in/zain-ahmed-590795228/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite%26color%3Dblack%26labelColor%3D000000"/>
+</a>
+</p>
+
+<br />
+
+<div align="left" style="max-width: 600px; margin: 0 auto; font-family: 'Courier New', Courier, monospace;">
+BSc in Computer Science & Engineering graduate. Focused on developing production-grade AI/ML solutions. Specializing in scalable ML systems, deep learning architectures, and TinyML IoT applications.
+</div>
 </div>
 
+<br />
+<br />
+
 <h3>
-  <samp>🛠️ Tech Arsenal</samp>
+<code>// CURRENT_FOCUS</code>
 </h3>
 
-```mermaid
+<ul>
+<li>Developing production-ready <b>ML pipelines</b> (Scalability & Performance)</li>
+<li>Researching <b>Neural Architecture Search</b> (NAS) techniques</li>
+<li>Implementing <b>MLOps</b> strategies for automated deployment</li>
+<li>Contributing to open-source Deep Learning libraries</li>
+</ul>
+
+<br />
+
+<h3>
+<code>// TECH_STACK</code>
+</h3>
+
 graph TD
-    A[Tech Stack] --> B[Languages]
-    A --> C[ML/DL]
-    A --> D[Web]
-    A --> E[Tools]
+    %% Styling for a minimal monochrome/cool look
+    classDef minimal fill:#fff,stroke:#333,stroke-width:1px;
+    
+    A[Tech Stack]:::minimal --> B[Languages]:::minimal
+    A --> C[ML/DL]:::minimal
+    A --> D[Web]:::minimal
+    A --> E[Tools]:::minimal
     
     B --> B1[Python]
     B --> B2[PHP]
@@ -57,85 +66,108 @@ graph TD
     E --> E1[Linux/Unix]
     E --> E2[Git]
     E --> E3[SDLC/Scrum]
-```
+
+
+<br />
 
 <h3>
-  <samp>📊 GitHub Metrics</samp>
+<code>// GITHUB_METRICS</code>
 </h3>
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x-eyn&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x-eyn&theme=radical)
-
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dx-eyn%26show_icons%3Dtrue%26theme%3Dgraywhite%26count_private%3Dtrue%26hide_border%3Dtrue" height="150" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dx-eyn%26layout%3Dcompact%26theme%3Dgraywhite%26hide_border%3Dtrue" height="150" />
+<br />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dx-eyn%26theme%3Dgraywhite%26hide_border%3Dtrue" height="150" />
 </div>
 
+<br />
+
 <h3>
-  <samp>🔥 Featured Projects</samp>
+<code>// FEATURED_PROJECTS</code>
 </h3>
 
 <table>
-  <tr>
-    <td align="center">
-      <h4><samp>🧠 Neural Architecture Search Framework</samp></h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white"/>
-      <p style="font-family: 'Fira Code', monospace;">Automated architecture discovery with 60% reduced search time while maintaining state-of-the-art accuracy</p>
-      <details>
-        <summary style="font-family: 'Fira Code', monospace;">Key Features</summary>
-        <p style="font-family: 'Fira Code', monospace;">
-        • Multi-objective optimization<br>
-        • Hardware-aware search<br>
-        • Distributed training support
-        </p>
-      </details>
-    </td>
-    <td align="center">
-      <h4><samp>🎯 MLOps Pipeline</samp></h4>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <p style="font-family: 'Fira Code', monospace;">Production-grade ML deployment pipeline with automated A/B testing capabilities</p>
-      <details>
-        <summary style="font-family: 'Fira Code', monospace;">Key Features</summary>
-        <p style="font-family: 'Fira Code', monospace;">
-        • Automated model versioning<br>
-        • Real-time monitoring<br>
-        • Scalable inference
-        </p>
-      </details>
-    </td>
-    <td align="center">
-      <h4><samp>🎭 TinyML Emotion Detection</samp></h4>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IoT-003A9B?style=flat&logo=iot&logoColor=white"/>
-      <p style="font-family: 'Fira Code', monospace;">Research on optimizing emotion detection algorithms for IoT wearable devices using TinyML approaches</p>
-      <details>
-        <summary style="font-family: 'Fira Code', monospace;">Key Features</summary>
-        <p style="font-family: 'Fira Code', monospace;">
-        • Voice signal processing<br>
-        • Resource-efficient ML models<br>
-        • Real-time emotion detection
-        </p>
-      </details>
-    </td>
-  </tr>
+<thead>
+<tr>
+<th align="left" width="200">Project</th>
+<th align="left" width="150">Stack</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Neural Architecture Search</b></td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-black%3Fstyle%3Dflat-square%26logo%3Dpytorch%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CUDA-black%3Fstyle%3Dflat-square%26logo%3Dnvidia%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ray-black%3Fstyle%3Dflat-square%26logo%3Dray%26logoColor%3Dwhite"/>
+</td>
+<td>
+Automated architecture discovery reducing search time by 60% while maintaining SOTA accuracy.
+
+
+
+
+
+
+
+<b>Key Features:</b> Multi-objective optimization, Hardware-aware search, Distributed training.
+</td>
+</tr>
+<tr>
+<td><b>MLOps Pipeline</b></td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-black%3Fstyle%3Dflat-square%26logo%3Dkubernetes%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MLflow-black%3Fstyle%3Dflat-square%26logo%3Dmlflow%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-black%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite"/>
+</td>
+<td>
+End-to-end production pipeline with automated versioning, real-time monitoring, and scalable inference.
+
+
+
+
+
+
+
+<b>Key Features:</b> Automated model versioning, Real-time monitoring, Scalable inference.
+</td>
+</tr>
+<tr>
+<td><b>TinyML Emotion Detection</b></td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-black%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-black%3Fstyle%3Dflat-square%26logo%3Dpytorch%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/IoT-black%3Fstyle%3Dflat-square%26logo%3Diot%26logoColor%3Dwhite"/>
+</td>
+<td>
+Optimized voice signal processing for wearable devices using resource-efficient quantization techniques.
+
+
+
+
+
+
+
+<b>Key Features:</b> Voice signal processing, Resource-efficient ML models, Real-time detection.
+</td>
+</tr>
+</tbody>
 </table>
 
+<br />
+
 <h3>
-  <samp>📫 Let's Connect!</samp>
+<code>// CONTACT</code>
 </h3>
 
-<div style="font-family: 'Fira Code', monospace;">
-  I'm always open to collaborating on innovative AI/ML projects or discussing the latest developments in the field. Feel free to reach out!
-</div>
+<p>
+Always open to collaborating on innovative AI/ML projects.
+<br />
+<a href="https://www.linkedin.com/in/zain-ahmed-590795228/"><b>[Connect on LinkedIn]</b></a>
+</p>
 
----
 <div align="center">
-  <div style="font-family: 'Fira Code', monospace;">
-    <i>"The future belongs to those who can untangle complexity and forge intelligence from chaos."</i>
-  </div>
+<sub><i>"The future belongs to those who can untangle complexity."</i></sub>
 </div>
