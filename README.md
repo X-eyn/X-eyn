@@ -1,19 +1,19 @@
-<div align="center">
-  <h1><code>&gt;_ Zain Ahmed</code></h1>
-  <h3>Building scalable intelligence systems.</h3>
+<div align="center" style="color:#FFFFFF; background-color:#1A1A1A; padding: 10px; border-radius: 10px;">
+  <h1><code style="color:#FFE700;">&gt;_ Zain Ahmed</code></h1>
+  <h3 style="color:#FFE700;">Building scalable intelligence systems.</h3>
 
   <p>
     <a href="https://github.com/x-eyn">
-      <img src="https://img.shields.io/badge/GitHub-x--eyn-black?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+      <img src="https://img.shields.io/badge/GitHub-x--eyn-FFE700?style=flat-square&logo=github&logoColor=1A1A1A" alt="GitHub profile" />
     </a>
     <a href="https://www.linkedin.com/in/zain-ahmed-590795228/">
-      <img src="https://img.shields.io/badge/LinkedIn-Zain%20Ahmed-black?style=flat-square&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Zain%20Ahmed-FFE700?style=flat-square&logo=linkedin&logoColor=1A1A1A" />
     </a>
   </p>
 
   <br />
 
-  <div align="left" style="max-width: 600px; margin: 0 auto; font-family: Courier, monospace;">
+  <div align="left" style="max-width: 600px; margin: 0 auto; font-family: Courier, monospace; color:#FFFFFF;">
     BSc in Computer Science & Engineering graduate. Focused on developing production-grade AI/ML solutions. Specializing in scalable ML systems, deep learning architectures, and TinyML IoT applications.
   </div>
 </div>
@@ -21,9 +21,9 @@
 <br />
 <br />
 
-<h3><code>// CURRENT_FOCUS</code></h3>
+<h3 style="color:#FFE700;"><code>// CURRENT_FOCUS</code></h3>
 
-<ul>
+<ul style="color:#FFFFFF;">
   <li>Developing production-ready <b>ML pipelines</b> (Scalability & Performance)</li>
   <li>Researching <b>Neural Architecture Search</b> (NAS) techniques</li>
   <li>Implementing <b>MLOps</b> strategies for automated deployment</li>
@@ -32,14 +32,14 @@
 
 <br />
 
-<h3><code>// TECH_STACK</code></h3>
+<h3 style="color:#FFE700;"><code>// TECH_STACK</code></h3>
 
 ```mermaid
 graph TD
-    A[Tech Stack] --> B[Languages]
-    A --> C[ML/DL]
-    A --> D[Web]
-    A --> E[Tools]
+    A[Tech Stack]:::theme --> B[Languages]:::theme
+    A --> C[ML/DL]:::theme
+    A --> D[Web]:::theme
+    A --> E[Tools]:::theme
 
     B --> B1[Python]
     B --> B2[PHP]
@@ -56,24 +56,26 @@ graph TD
     E --> E1[Linux/Unix]
     E --> E2[Git]
     E --> E3[SDLC / Scrum]
+
+    classDef theme fill:#1A1A1A,stroke:#FFE700,stroke-width:1px,color:#FFFFFF;
 ```
 
 <br />
 
-<h3><code>// GITHUB_METRICS</code></h3>
+<h3 style="color:#FFE700;"><code>// GITHUB_METRICS</code></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=graywhite&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-eyn&layout=compact&theme=graywhite&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FFE700&icon_color=FFE700&text_color=FFFFFF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-eyn&layout=compact&theme=radical&hide_border=true&title_color=FFE700&icon_color=FFE700&text_color=FFFFFF" height="150" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-eyn&theme=graywhite&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-eyn&theme=radical&hide_border=true&fire_color=FFE700&background=1A1A1A&stroke=FFE700&currStreakNum=FFE700&sideNums=FFFFFF" height="150" />
 </div>
 
 <br />
 
-<h3><code>// FEATURED_PROJECTS</code></h3>
+<h3 style="color:#FFE700;"><code>// FEATURED_PROJECTS</code></h3>
 
-<table>
+<table style="color:#FFFFFF;">
   <thead>
     <tr>
       <th align="left" width="200">Project</th>
@@ -85,9 +87,9 @@ graph TD
     <tr>
       <td><b>Neural Architecture Search</b></td>
       <td>
-        <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/CUDA-black?style=flat-square&logo=nvidia&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ray-black?style=flat-square&logo=ray&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-FFE700?style=flat-square&logo=pytorch&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/CUDA-FFE700?style=flat-square&logo=nvidia&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/Ray-FFE700?style=flat-square&logo=ray&logoColor=1A1A1A" />
       </td>
       <td>
         Automated architecture discovery reducing search time by 60% while maintaining SOTA accuracy.
@@ -98,9 +100,9 @@ graph TD
     <tr>
       <td><b>MLOps Pipeline</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/MLflow-black?style=flat-square&logo=mlflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-FFE700?style=flat-square&logo=kubernetes&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/MLflow-FFE700?style=flat-square&logo=mlflow&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/Docker-FFE700?style=flat-square&logo=docker&logoColor=1A1A1A" />
       </td>
       <td>
         End-to-end production pipeline with automated versioning, real-time monitoring, and scalable inference.
@@ -111,9 +113,9 @@ graph TD
     <tr>
       <td><b>TinyML Emotion Detection</b></td>
       <td>
-        <img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-black?style=flat-square&logo=iot&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FFE700?style=flat-square&logo=tensorflow&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/PyTorch-FFE700?style=flat-square&logo=pytorch&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/IoT-FFE700?style=flat-square&logo=iot&logoColor=1A1A1A" />
       </td>
       <td>
         Optimized voice signal processing for wearable devices using resource-efficient quantization techniques.
@@ -126,14 +128,16 @@ graph TD
 
 <br />
 
-<h3><code>// CONTACT</code></h3>
+<h3 style="color:#FFE700;"><code>// CONTACT</code></h3>
 
-<p>
+<p style="color:#FFFFFF;">
   Always open to collaborating on innovative AI/ML projects.
   <br />
-  <a href="https://www.linkedin.com/in/zain-ahmed-590795228/"><b>[Connect on LinkedIn]</b></a>
+  <a href="https://www.linkedin.com/in/zain-ahmed-590795228/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zain%20Ahmed-FFE700?style=flat-square&logo=linkedin&logoColor=1A1A1A" />
+  </a>
 </p>
 
 <div align="center">
-  <sub><i>"The future belongs to those who can untangle complexity."</i></sub>
+  <sub style="color:#FFFFFF;"><i>"The future belongs to those who can untangle complexity."</i></sub>
 </div>
