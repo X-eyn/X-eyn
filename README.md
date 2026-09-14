@@ -1,20 +1,18 @@
 <div align="center" style="color:#FFFFFF; background-color:#1A1A1A; padding: 10px; border-radius: 10px;">
   <h1><code style="color:#FFE700;">&gt;_ Zain Ahmed</code></h1>
-  <h3 style="color:#FFE700;">Building scalable intelligence systems.</h3>
+  <h3 style="color:#FFE700;">Building reliable backend systems.</h3>
 
   <p>
-    <a href="https://github.com/x-eyn">
-      <img src="https://img.shields.io/badge/GitHub-x--eyn-FFE700?style=flat-square&logo=github&logoColor=1A1A1A" alt="GitHub profile" />
-    </a>
     <a href="https://www.linkedin.com/in/zain-ahmed-590795228/">
-      <img src="https://img.shields.io/badge/LinkedIn-Zain%20Ahmed-FFE700?style=flat-square&logo=linkedin&logoColor=1A1A1A" />
+      <img src="./assets/linkedin.svg" width="16" height="16" alt="LinkedIn" />
+      <b>LinkedIn</b>
     </a>
   </p>
 
   <br />
 
   <div align="left" style="max-width: 600px; margin: 0 auto; font-family: Courier, monospace; color:#FFFFFF;">
-    BSc in Computer Science & Engineering graduate. Focused on developing production-grade AI/ML solutions. Specializing in scalable ML systems, deep learning architectures, and TinyML IoT applications.
+    Backend-focused software engineer working with Python, Django and data-intensive services. I build REST APIs, asynchronous processing pipelines and production systems on AWS, with practical experience across AI-assisted assessment and health-tech products.
   </div>
 </div>
 
@@ -24,10 +22,10 @@
 <h3 style="color:#FFE700;"><code>// CURRENT_FOCUS</code></h3>
 
 <ul style="color:#FFFFFF;">
-  <li>Developing production-ready <b>ML pipelines</b> (Scalability & Performance)</li>
-  <li>Researching <b>Neural Architecture Search</b> (NAS) techniques</li>
-  <li>Implementing <b>MLOps</b> strategies for automated deployment</li>
-  <li>Contributing to open-source Deep Learning libraries</li>
+  <li>Designing reliable <b>backend services and REST APIs</b></li>
+  <li>Building <b>asynchronous workflows</b> with Celery, Redis and message queues</li>
+  <li>Improving <b>database performance, observability and failure recovery</b></li>
+  <li>Applying AI where it solves a concrete product or data problem</li>
 </ul>
 
 <br />
@@ -35,41 +33,18 @@
 <h3 style="color:#FFE700;"><code>// TECH_STACK</code></h3>
 
 ```mermaid
-graph TD
-    A[Tech Stack]:::theme --> B[Languages]:::theme
-    A --> C[ML/DL]:::theme
-    A --> D[Web]:::theme
-    A --> E[Tools]:::theme
+flowchart TB
+    A["BACKEND & DATA ENGINEERING"]:::core
 
-    B --> B1[Python]
-    B --> B2[PHP]
-    B --> B3[JavaScript]
+    A --> B["LANGUAGES<br/>Python · SQL · JavaScript / TypeScript"]:::card
+    A --> C["APPLICATION<br/>Django · DRF · FastAPI · Celery"]:::card
+    A --> D["DATA<br/>PostgreSQL · MySQL · Redis · ClickHouse"]:::card
+    A --> E["INFRASTRUCTURE<br/>Docker · Linux · AWS · S3 · Kafka"]:::card
 
-    C --> C1[TensorFlow]
-    C --> C2[PyTorch]
-    C --> C3[TinyML]
-
-    D --> D1[Laravel]
-    D --> D2[HTML/CSS]
-    D --> D3[SQL]
-
-    E --> E1[Linux/Unix]
-    E --> E2[Git]
-    E --> E3[SDLC / Scrum]
-
-    classDef theme fill:#1A1A1A,stroke:#FFE700,stroke-width:1px,color:#FFFFFF;
+    classDef core fill:#FFE700,stroke:#FFE700,stroke-width:2px,color:#111111,font-weight:bold;
+    classDef card fill:#161B22,stroke:#4B5563,stroke-width:1px,color:#F3F4F6;
+    linkStyle default stroke:#6B7280,stroke-width:1px;
 ```
-
-<br />
-
-<h3 style="color:#FFE700;"><code>// PROFILE METRICS</code></h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-eyn&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FFE700&icon_color=FFE700&text_color=FFFFFF" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-eyn&layout=compact&theme=radical&hide_border=true&title_color=FFE700&icon_color=FFE700&text_color=FFFFFF" height="150" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-eyn&theme=radical&hide_border=true&fire_color=FFE700&background=1A1A1A&stroke=FFE700&currStreakNum=FFE700&sideNums=FFFFFF" height="150" />
-</div>
 
 <br />
 
@@ -78,49 +53,50 @@ graph TD
 <table style="color:#FFFFFF;">
   <thead>
     <tr>
-      <th align="left" width="200">Project</th>
-      <th align="left" width="150">Stack</th>
+      <th align="left" width="180">Project</th>
+      <th align="left" width="190">Stack</th>
       <th align="left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Neural Architecture Search</b></td>
+      <td><b><a href="https://github.com/X-eyn/DiZpatch">DiZpatch</a></b></td>
       <td>
-        <img src="https://img.shields.io/badge/PyTorch-FFE700?style=flat-square&logo=pytorch&logoColor=1A1A1A" />
-        <img src="https://img.shields.io/badge/CUDA-FFE700?style=flat-square&logo=nvidia&logoColor=1A1A1A" />
-        <img src="https://img.shields.io/badge/Ray-FFE700?style=flat-square&logo=ray&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/NestJS-24292F?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+        <img src="https://img.shields.io/badge/Kafka-24292F?style=flat-square&logo=apachekafka&logoColor=FFFFFF" alt="Apache Kafka" />
+        <img src="https://img.shields.io/badge/MySQL-24292F?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
       </td>
       <td>
-        Automated architecture discovery reducing search time by 60% while maintaining SOTA accuracy.
+        Field-service marketplace built as four cooperating services for work orders, provider matching, assignments and notifications.
         <br /><br />
-        <b>Key Features:</b> Multi-objective optimization, Hardware-aware search, Distributed training.
+        <b>Engineering:</b> Transactional outbox, idempotent consumers, database-per-service boundaries and infrastructure-backed integration tests.
       </td>
     </tr>
     <tr>
-      <td><b>MLOps Pipeline</b></td>
+      <td><b><a href="https://github.com/X-eyn/Trek-back">Trek-back</a></b></td>
       <td>
-        <img src="https://img.shields.io/badge/Kubernetes-FFE700?style=flat-square&logo=kubernetes&logoColor=1A1A1A" />
-        <img src="https://img.shields.io/badge/MLflow-FFE700?style=flat-square&logo=mlflow&logoColor=1A1A1A" />
-        <img src="https://img.shields.io/badge/Docker-FFE700?style=flat-square&logo=docker&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/ClickHouse-24292F?style=flat-square&logo=clickhouse&logoColor=FFCC01" alt="ClickHouse" />
+        <br />
+        <img src="https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Celery-24292F?style=flat-square&logo=celery&logoColor=37814A" alt="Celery" />
       </td>
       <td>
-        End-to-end production pipeline with automated versioning, real-time monitoring, and scalable inference.
+        Production incident intelligence that ingests logs, groups related failures, detects error-rate anomalies and reconstructs failed traces.
         <br /><br />
-        <b>Key Features:</b> Automated model versioning, Real-time monitoring, Scalable inference.
+        <b>Engineering:</b> Modular-monolith architecture, analytical and transactional storage, background workers and testable in-memory fallbacks.
       </td>
     </tr>
     <tr>
-      <td><b>TinyML Emotion Detection</b></td>
+      <td><b><a href="https://github.com/X-eyn/SoraVault">SoraVault</a></b></td>
       <td>
-        <img src="https://img.shields.io/badge/TensorFlow-FFE700?style=flat-square&logo=tensorflow&logoColor=1A1A1A" />
-        <img src="https://img.shields.io/badge/PyTorch-FFE700?style=flat-square&logo=pytorch&logoColor=1A1A1A" />
-        <img src="https://img.shields.io/badge/IoT-FFE700?style=flat-square&logo=iot&logoColor=1A1A1A" />
+        <img src="https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Browser_APIs-24292F?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Browser APIs" />
       </td>
       <td>
-        Optimized voice signal processing for wearable devices using resource-efficient quantization techniques.
+        Bulk export and backup tool for OpenAI Sora media, liked content and original prompts.
         <br /><br />
-        <b>Key Features:</b> Voice signal processing, Resource-efficient ML models, Real-time detection.
+        <b>Engineering:</b> Resumable exports, structured metadata preservation and a local-first approach to user archives.
       </td>
     </tr>
   </tbody>
@@ -128,16 +104,26 @@ graph TD
 
 <br />
 
+<h3 style="color:#FFE700;"><code>// MORE_WORK</code></h3>
+
+<p>
+  <a href="https://github.com/X-eyn/Flox"><b>Flox</b></a> · Live video Picture-in-Picture with multi-source subtitle preservation
+  <br />
+  <a href="https://github.com/X-eyn/FRag"><b>FRag</b></a> · Financial-document RAG with FastAPI, LangChain and vector search
+  <br />
+  <a href="https://github.com/X-eyn/Credit-Risk-Scoring"><b>Credit Risk Scoring</b></a> · End-to-end data preparation, modeling and evaluation pipeline
+</p>
+
+<br />
+
 <h3 style="color:#FFE700;"><code>// CONTACT</code></h3>
 
 <p style="color:#FFFFFF;">
-  Always open to collaborating on innovative AI/ML projects.
+  Open to backend engineering, data-intensive systems and applied AI opportunities.
   <br />
-  <a href="https://www.linkedin.com/in/zain-ahmed-590795228/">
-    <img src="https://img.shields.io/badge/LinkedIn-Zain%20Ahmed-FFE700?style=flat-square&logo=linkedin&logoColor=1A1A1A" />
-  </a>
+  <a href="https://www.linkedin.com/in/zain-ahmed-590795228/"><b>Connect on LinkedIn</b></a>
 </p>
 
 <div align="center">
-  <sub style="color:#FFFFFF;"><i>"The future belongs to those who can untangle complexity."</i></sub>
+  <sub style="color:#FFFFFF;"><i>"I push to PROD on Thursdays (0_0)"</i></sub>
 </div>
